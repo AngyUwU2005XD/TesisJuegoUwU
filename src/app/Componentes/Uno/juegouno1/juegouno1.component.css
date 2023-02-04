@@ -1,0 +1,28 @@
+.uwu{
+    display: flex;
+    flex-direction: row;
+    padding: 6vw;
+
+}
+.uno{
+    position: relative;
+    transform: translate(40%, 10px);
+}
+.contenedor{
+    width: 50vw;
+    height: 40vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 140px 90px;
+    position: relative;
+    transform: translate(40%, 10px);
+
+}
+.boton{
+    width: 189px;
+}
+/* .a{
+    width: "200px";
+    height: "200px";
+} */
